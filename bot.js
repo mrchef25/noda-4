@@ -1,8 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-const token = 'Nzc4NzU5Mzk3MzI4ODE0MDgw.X7WqNA.HhUWUmq75kJ83jxUa6nz7rKHY-s';
-
 bot.on('ready', () => {
     console.log('Botas veikia');
 })
